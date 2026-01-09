@@ -8,7 +8,7 @@ import React from "react"
 import App from "./App"
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-     <Provider>
+     <Provider theme={"theme-dark"}>
       <App />
     </Provider>
   </StrictMode>,
