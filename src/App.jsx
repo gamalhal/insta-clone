@@ -1,6 +1,6 @@
 import React from 'react'
 import { Routes, Route } from 'react-router-dom'
-import HomePage from './pages/HomePage.jsx'
+import HomePage from './pages/HomePage/HomePage.jsx'
 function App() {
  
 
